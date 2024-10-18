@@ -1,4 +1,4 @@
-# CCMiner yang telah dikompilasi sebelumnya untuk Termux:
+# ccminer yang telah dikompilasi sebelumnya untuk Termux:
 Ini adalah repo WIP untuk biner ccminer yang telah dikompilasi sebelumnya dengan Termux terbaru (v0.118.0) dan Clang terbaru (v17.0.6).
 # **`Disclaimer: Saya tidak menerima jaminan atau kewajiban apa pun atas repo ini. Lakukan dengan risiko Anda sendiri!!!
 # **`Ini untuk semua perangkat ARMv8`**
