@@ -6,7 +6,7 @@ Ini adalah repo WIP untuk biner ccminer yang telah dikompilasi sebelumnya dengan
 # **`Ini untuk semua perangkat ARMv8 Jika apk Termux tidak terinstal dilakukan dengan sengaja, apk yang disediakan ini hanya akan bekerja pada sistem operasi arm 64-bit yang pada gilirannya membutuhkan perangkat keras arm 64-bit hal ini untuk menghindari hilangnya waktu bagi pengguna dan saya sendiri. (Menambang pada perangkat 32-bit tidak menguntungkan)`**
 
 # Installasi:
-1. Unduh & instal arm64-v8a [Termux](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk): atau Download di Google drive [termux-v0.79-offline-bootstraps](https://drive.google.com/file/d/1ooLjBo6okz6IUDO9U5xxyjiq57ZLXhDx/view?usp=drivesdk):
+1. Unduh & instal arm64-v8a [Termux](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk):
 ```
 https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
 ```
@@ -19,7 +19,9 @@ yes | pkg install libjansson wget nano
 3. Unduh ccminer, konfigurasi, mulai :
 ```
 mkdir ccminer && cd ccminer
-git clone https://github.com/mapelvader/CCminer
+wget https://raw.githubusercontent.com/mapelvader/ccminer/main/ccminer
+wget https://raw.githubusercontent.com/mapelvader/ccminer/main/config.json
+wget https://raw.githubusercontent.com/mapelvader/ccminer/main/start.sh
 chmod +x ccminer start.sh
 ```
 # Penggunaan:
