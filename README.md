@@ -33,11 +33,11 @@ chmod +x ccminer start.sh
 ```
 nano config.json
 ```
-2. Start ccminer with:
+2. Mulai ccminer dengan:
 ```
 ~/ccminer/start.sh
 ```
-3. Close ccminer with:
+3. Tutup ccminer dengan:
 ```
 CTRL + c
 ```
