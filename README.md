@@ -19,9 +19,9 @@ yes | pkg install libjansson wget nano
 3. Unduh ccminer, konfigurasi, mulai :
 ```
 mkdir ccminer && cd ccminer
-wget https://raw.githubusercontent.com/mapelvader/ccminer/main/ccminer
-wget https://raw.githubusercontent.com/mapelvader/ccminer/main/config.json
-wget https://raw.githubusercontent.com/mapelvader/ccminer/main/start.sh
+wget https://raw.githubusercontent.com/mapelvader/ccminer/minning/ccminer
+wget https://raw.githubusercontent.com/mapelvader/ccminer/minning/config.json
+wget https://raw.githubusercontent.com/mapelvader/ccminer/minning/start.sh
 chmod +x ccminer start.sh
 ```
 # Penggunaan:
