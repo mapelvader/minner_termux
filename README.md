@@ -1,11 +1,9 @@
-# Pre-compiled CCMiner for Termux:
-This is a WIP repo for pre-compiled ccminer binaries with latest Termux(v0.118.0) and latest Clang(v17.0.6).
+# CCMiner yang telah dikompilasi sebelumnya untuk Termux:
+Ini adalah repo WIP untuk biner ccminer yang telah dikompilasi sebelumnya dengan Termux terbaru (v0.118.0) dan Clang terbaru (v17.0.6).
+# **`Disclaimer: Saya tidak menerima jaminan atau kewajiban apa pun atas repo ini. Lakukan dengan risiko Anda sendiri!!!
+# **`Ini untuk semua perangkat ARMv8`**
 
-# **`Disclaimer: I accept no warranties or liabilities on this repo. Do it at your own risk!!!`**
-
-# **`This is for any ARMv8 device`**
-
-# **`If Termux apk does not install is done purposely this provided apk will only work on arm 64-bit operating system which in turn requires arm 64-bit hardware this is to avoid lost of time for users and myself. (Mining on 32-bit devices is not profitable)`**
+# **`Ini untuk semua perangkat ARMv8 Jika apk Termux tidak terinstal dilakukan dengan sengaja, apk yang disediakan ini hanya akan bekerja pada sistem operasi arm 64-bit yang pada gilirannya membutuhkan perangkat keras arm 64-bit hal ini untuk menghindari hilangnya waktu bagi pengguna dan saya sendiri. (Menambang pada perangkat 32-bit tidak menguntungkan)`**
 
 # Installation:
 1. Download & install latest arm64-v8a [Termux](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk):
