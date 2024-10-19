@@ -48,7 +48,8 @@ nano config.json
 ```
 CTRL + c
 ```
- **Lanjut setting wallet dll**
+ # **`Lanjut setting wallet dll`**
+
 4. cara setting autorun:
   ``` 
  cd && cd && cd && nano ../usr/etc/bash.bashrc
